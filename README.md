@@ -75,7 +75,7 @@ To run this project, you need the following dependencies:
 The climate data used in this project is provided by the University of Oregon and is available through the following link: [Hawaii Climate Database](https://www.earthchem.org/science/observing-geochemical-properties/geochemical-data). Special thanks to the University of Oregon for providing this dataset.
 
 
-### References
+## References
 - Creating the app.py file. CloudxLab. (n.d.). https://cloudxlab.com/assessment/displayslide/5947/creating-the-apppy-file 
 Grinberg, M. (n.d.). The Flask mega-tutorial, part I: Hello, world!. miguelgrinberg.com. https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world 
 
